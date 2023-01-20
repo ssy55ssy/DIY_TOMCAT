@@ -2,7 +2,7 @@
 <web-app>
     <servlet>
         <servlet-name>HelloServlet</servlet-name>
-        <servlet-class>cn.how2j.diytomcat.webappservlet.HelloServlet</servlet-class>
+        <servlet-class>cn.felix.diytomcat.webappservlet.HelloServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
