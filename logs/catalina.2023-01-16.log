@@ -1,0 +1,703 @@
+01 16, 2023 16:51:16 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 16:51:16 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 158 ms
+01 16, 2023 16:51:16 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 16:51:16 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 9 ms
+01 16, 2023 16:51:16 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 54 ms
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 14 ms
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 40 ms
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 16:51:17 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 0 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 93 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 5 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 18 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 8 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 0 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 16:55:53 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 90 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 3 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 19 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 6 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 6 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 8 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 16:57:08 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 93 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 0 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 19 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 12 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 9 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 17:06:08 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 0 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 87 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 0 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 16 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 0 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 14 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 17:15:26 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 0 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 77 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 16 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 18 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 0 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 14 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 9 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 20:32:17 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 7 ms
+01 16, 2023 21:21:58 下午 cn.felix.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at cn.felix.diytomcat.servlets.DefaultServlet.service(DefaultServlet.java:39)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at cn.felix.diytomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:33)
+	at cn.felix.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:50)
+	at cn.felix.diytomcat.catalina.Connector$1.run(Connector.java:70)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 80 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 14 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 21 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 11 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 16 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 3 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 21:32:37 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 96 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 7 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 20 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 10 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 1 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 12 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 21:38:38 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 2 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 89 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 3 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 15 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 0 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 16 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 21:46:25 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 0 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 89 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 5 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 12 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 11 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 0 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 22:38:40 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 0 ms
+01 16, 2023 23:03:59 下午 cn.felix.diytomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : cn.felix.diytomcat.watcher.ContextFileChangeWatcher@64a51e 检测到了Web应用下的重要文件变化 web.xml 
+01 16, 2023 23:03:59 下午 cn.felix.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/j2ee] has started
+01 16, 2023 23:03:59 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 23:03:59 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 2 ms
+01 16, 2023 23:03:59 下午 cn.felix.diytomcat.catalina.Host reload
+INFO : Reloading Context with name [/j2ee] has completed
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\a
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\a has finished in 94 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\j2ee
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\j2ee has finished in 0 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb0
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb0 has finished in 15 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\javaweb1
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\javaweb1 has finished in 16 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory D:\project\diytomcat\webapps\ROOT
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory D:\project\diytomcat\webapps\ROOT has finished in 0 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/diytomcat/b
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/diytomcat/b has finished in 0 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory d:/project/javaweb/web
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory d:/project/javaweb/web has finished in 0 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server version:		felix DiyTomcat/1.0.1
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : Java Home:		D:\jdk\jre
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_65-b17
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+01 16, 2023 23:04:08 下午 cn.felix.diytomcat.catalina.Server start
+INFO : Server startup in 16 ms
